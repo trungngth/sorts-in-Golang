@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/trungngth/sorts-in-Golang/sort"
+	"sort/sort"
 )
 
 func main() {
